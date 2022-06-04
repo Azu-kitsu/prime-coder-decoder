@@ -1,5 +1,5 @@
 # prime-coder-decoder
-![lock](https://github.com/Azu-kitsu/prime-coder-decoder/assets/Web/icon_lock.png "lock")
+![https://github.com/Azu-kitsu/prime-coder-decoder/assets/Web/icon_lock.png](https://github.com/Azu-kitsu/prime-coder-decoder/blob/main/assets/Web/icon_lock.png)
 A pure rust command line application that codes/decodes between an encryption I came up with (that might already exist) using prime numbers.
 
 The clap help description:
